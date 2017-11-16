@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: TilesV3
+  m_Name: Tile-vetor-2
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 3c5f9230213360240aa5440aee711804, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d16a81d9f772144498a70ae799cceb2f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
